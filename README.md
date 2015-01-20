@@ -7,5 +7,7 @@ This is analysis of a growth rate experiment performed on mutant and Wild type l
 
 The perimeter of each growing gemma was drawn freehand in imageJ, and this data was analysed in an ipython notebook using the Pandas package.
 
-See the ipython notebook here:
-http://nbviewer.ipython.org/github/linbug/Liverwort-growth-rate-analysis/blob/master/growth%20rate%20analysis.ipynb
+See the ipython notebook [here]
+(http://nbviewer.ipython.org/github/linbug/Liverwort-growth-rate-analysis/blob/master/growth%20rate%20analysis.ipynb)
+
+A second round of this experiment was performed with different lines. See the second round [here](https://github.com/linbug/Round-two-liverwort-growth-rate-analysis/tree/master) 
